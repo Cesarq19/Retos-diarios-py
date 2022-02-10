@@ -16,3 +16,11 @@ a1 = ["arp", "live", "strong"]
 a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
 
 returns ["arp", "live", "strong"]
+
+Ejercicio "Break the camelCase" (break_cc.py)
+Complete the solution so that the function will break up camel casing, using a space between words.
+
+Example
+"camelCasing"  =>  "camel Casing"
+"identifier"   =>  "identifier"
+""             =>  ""
