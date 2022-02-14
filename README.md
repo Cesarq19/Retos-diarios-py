@@ -32,3 +32,8 @@ Given a string, detect whether or not it is a pangram. Return True if it is, Fal
 
 Ejercicio "Counting duplicates" (duplicates.py)
 Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
+
+Ejercicio "RGB a Hex" (RGB_hex.py)
+Complete it so that passing in RGB decimal values will result in a hexadecimal representation being returned. Valid decimal values for RGB are 0 - 255. Any values that fall out of that range must be rounded to the closest valid value.
+
+Note: Your answer should always be 6 characters long, the shorthand with 3 will not work here.
