@@ -68,3 +68,7 @@ HH = hours, padded to 2 digits, range: 00 - 99
 MM = minutes, padded to 2 digits, range: 00 - 59
 SS = seconds, padded to 2 digits, range: 00 - 59
 The maximum time never exceeds 359999 (99:59:59).
+
+Ejercicio "Determinante de una matriz" (detMax.py)
+Write a function that accepts a square matrix (N x N 2D array) and returns the determinant of the matrix
+
